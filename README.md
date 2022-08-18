@@ -1,4 +1,3 @@
-<img width="100%" height="350px" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b7611a3e5ec783ebdb6df18db6243e520271507173f56&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hello World 👋, I'm Dheeraj</h1>
 <h3 align="center">A JAVA Back-end Developer in the process</h3>
