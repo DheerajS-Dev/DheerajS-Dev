@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS and DSA**
 
-- 👨‍💻 All of my projects are available at [here](https://drive.google.com/file/d/17FXzHqsRaeS9acUkoAVGLXOxhqoKeemt/view?usp=sharing)🌐
+- 👨‍💻 All of my projects are available at [here](https://dhheraj-singh.netlify.app/)🌐
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17FXzHqsRaeS9acUkoAVGLXOxhqoKeemt/view?usp=sharing)
 
