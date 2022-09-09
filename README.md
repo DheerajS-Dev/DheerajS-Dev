@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **raajthakur7860@gmail.com**
 
-- ⚡ Fun fact **...**
+- ⚡ Fun fact **I never get captchas wrong.**
 
 <h3 align="left">Connect with me:</h3>
 <hr>
