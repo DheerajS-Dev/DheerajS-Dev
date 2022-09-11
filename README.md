@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://dhheraj-singh.netlify.app/)🌐
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17FXzHqsRaeS9acUkoAVGLXOxhqoKeemt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12qLGsEBs6Vl-dTbO9uMVRj0N1M1urhhv/view?usp=sharing)
 
 - 📫 How to reach me **raajthakur7860@gmail.com**
 
