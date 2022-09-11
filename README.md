@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12qLGsEBs6Vl-dTbO9uMVRj0N1M1urhhv/view?usp=sharing)
 
-- 📫 How to reach me [email](raajthakur7860@gmail.com)
+- 📫 How to reach me **raajthakur7860@gmail.com**
 
 - ⚡ Fun fact **I never get captchas wrong.**
 
