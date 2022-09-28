@@ -75,10 +75,6 @@
 
 <br/>
 
-![snake gif](https://github.com/POPEYE-jpg/POPEYE-jpg/blob/output/github-contribution-grid-snake.gif)
-
-<br/>
-
 <a href="https://github.com/POPEYE-jpg/github-readme-activity-graph"><img alt="Dheeraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=POPEYE-jpg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
