@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/POPEYE-jpg/)
 <h1 align="center">Hello World 👋, I'm Dheeraj Singh</h1>
-<h3 align="center">A Passionate Developer, exploring technologies and frameworks, and also Developing and delivering new platforms and features.</h3>
+<h3 align="center">A Passionate Developer, exploring technologies & frameworks and implemting to develope and deliver new platforms and features.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
