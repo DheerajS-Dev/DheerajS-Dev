@@ -1,10 +1,9 @@
-
-<h1 align="center">Hello World 👋, I'm Dheeraj</h1>
-<h3 align="center">A JAVA Back-end Developer in the process</h3>
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/POPEYE-jpg/)
+<h1 align="center">Hello World 👋, I'm Dheeraj Singh</h1>
+<h3 align="center">A Passionate Developer, exploring technologies and frameworks, and also Developing and delivering new platforms and features.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/POPEYE-jpg/)
 <br/>
 <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
