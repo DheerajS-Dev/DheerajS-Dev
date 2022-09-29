@@ -3,16 +3,13 @@
 <h3 align="center">A Passionate Developer, exploring new technologies</h3>
 
 <p align= "center">
+<img src="https://img.shields.io/badge/J-JAVA-skyblue"/>
 <img src="https://img.shields.io/badge/S-SpringBoot-brightgreen"/>
 <img src="https://img.shields.io/badge/H-HiberNate-pink"/>
 <img src="https://img.shields.io/badge/S-SQL-blue"/>
-<img src="https://img.shields.io/badge/J-JAVA-skyblue"/>
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<br/>
 <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
@@ -30,6 +27,7 @@
 
 - ⚡ Fun fact **I never get captchas wrong.**
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
@@ -38,6 +36,7 @@
 <a href="https://leetcode.com/Hyphenin_Gman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
 </p>
 
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 <p align="left"> 
@@ -58,7 +57,6 @@
 </p>
 
 <br/>
-
 <h3 align="left">Github Stats:</h3>
 <hr>
 
@@ -74,7 +72,6 @@
     </p>
 
 <br/>
-
 <a href="https://github.com/POPEYE-jpg/github-readme-activity-graph"><img alt="Dheeraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=POPEYE-jpg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
