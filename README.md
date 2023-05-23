@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [here 📜](https://drive.google.com/file/d/1lCvLC488w61VngBQSSYKcDyN90zfvQKC/view?usp=sharing)
 
-- 📫 How to reach me **raajthakur7860@gmail.com**
+- 📫 How to reach me **dheerajs.code@gmail.com**
 
 - ⚡ Fun fact **I never get captchas wrong.**
 
