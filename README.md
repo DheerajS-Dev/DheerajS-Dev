@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=popeye-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="popeye-jpg" /> </p>
 
-- 🌱 I’m currently learning **JAVA Back-End & SpringBoot**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, SpringBoot, HiberNate, SQL, JavaScript**
 
