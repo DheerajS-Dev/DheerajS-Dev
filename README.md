@@ -1,5 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/77190618/216117487-5432ace6-f4da-4787-ab93-d1ec8493deb0.gif)](https://github.com/POPEYE-jpg/)
-<h1 align="center">Hello World 👋, I'm Dheeraj Singh</h1>
+[![MasterHead](https://github.com/DheerajS-Dev/DheerajS-Dev/assets/77190618/3f301b93-43dd-4dbc-a7fc-2dbd73879a12)](https://github.com/DheerajS-Dev/)
+<h1 align="center">Hi 👋, I'm Dheeraj Singh</h1>
 <h3 align="center">A Passionate Developer, exploring new technologies</h3>
 
 <p align= "center">
@@ -13,11 +13,13 @@
 <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=popeye-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="popeye-jpg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DheerajS-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Dheeraj Singh" /> </p>
+
+- 🌍 I'm based in **Fatehpur, Uttar Pradesh**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Java, SpringBoot, HiberNate, SQL, JavaScript**
+- 💬 Ask me about **Java, SpringBoot, SQL, JavaScript & DSA**
 
 - 👨‍💻 All of my projects are available at [here 🌐](https://dheeraj-singh.netlify.app/)
 
@@ -31,9 +33,12 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://www.linkedin.com/in/dheeraj-singh-697687231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dheeraj-singh-697687231/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fw18_0417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a>
-<a href="https://leetcode.com/Hyphenin_Gman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
+  
+<a href="https://dheeraj-singh.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Dheeraj Singh" /></a>
+<a href="https://www.linkedin.com/in/dheeraj-s-697687231/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dheeraj Singh" /></a>  
+<a href="https://www.hackerrank.com/fw18_0417?hr_r=1" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Dheeraj Singh" /></a> 
+<a href="https://leetcode.com/Dheeraj_Codes/" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Dheeraj Singh" /></a>
+ 
 </p>
 
 <br/>
