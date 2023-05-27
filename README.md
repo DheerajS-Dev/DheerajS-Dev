@@ -32,13 +32,12 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <hr>
-<p align="left">
-  
+
+<p align="left">  
 <a href="https://dheeraj-singh.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Dheeraj Singh" /></a>
 <a href="https://www.linkedin.com/in/dheeraj-s-697687231/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dheeraj Singh" /></a>  
 <a href="https://www.hackerrank.com/fw18_0417?hr_r=1" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Dheeraj Singh" /></a> 
-<a href="https://leetcode.com/Dheeraj_Codes/" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Dheeraj Singh" /></a>
- 
+<a href="https://leetcode.com/Dheeraj_Codes/" target="_blank"><img align="center" src="https://img.shields.io/badge/Leetcode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Dheeraj Singh" /></a>
 </p>
 
 <br/>
@@ -65,19 +64,14 @@
 <h3 align="left">Github Stats:</h3>
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=POPEYE-jpg&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="POPEYE-jpg" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DheerajS-Dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="DheerajS-Dev" /></p>
 
 <p align="center">
-    <a href="https://github.com/POPEYE-jpg/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=POPEYE-jpg&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    <a href="https://github.com/DheerajS-Dev/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajS-Dev&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
     </a>
 </p>
+
 <p align="center">
-    <a href="https://github.com/POPEYE-jpg/github-readme-stats"><img alt="Dheeraj's Github Status" src="https://github-readme-stats.vercel.app/api?username=POPEYE-jpg&show_icons=true&count_private=true&show_owner=ture&theme=react&hide_border=true&bg_color=0,000000,190F40,190F40" /></a>
-    </p>
-
-<br/>
-<a href="https://github.com/POPEYE-jpg/github-readme-activity-graph"><img alt="Dheeraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=POPEYE-jpg&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<p align="center"> <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"> </p>
+    <a href="https://github.com/DheerajS-Dev/github-readme-stats"><img alt="Dheeraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DheerajS-Dev&show_icons=true&count_private=true&show_owner=ture&theme=react&hide_border=true&bg_color=0,000000,190F40,190F40" /></a>
+</p>
